@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "title": "Mr",
+      "email": "fatima.yassin@gmail.com",
+      "firstName": "",
+      "lastName": "Yassin",
+      "phone": "+1 (416) 555-1234",
+      "country": "Lebanon",
+      "dob": "1994-04-11",
+      "genderIndex": 2
+    },
+    {
+      "title": "Ms",
+      "email": "",
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "phone": "+1 (416) 555-5678",
+      "country": "Australia",
+      "dob": "1992-07-20",
+      "genderIndex": 3
+    }
+  ]
+}
