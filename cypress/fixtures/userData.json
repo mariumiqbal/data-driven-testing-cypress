@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "title": "Mr",
+      "email": "fatima.yassin@gmail.com",
+      "firstName": "Fatima",
+      "lastName": "Yassin",
+      "phone": "+1 (416) 555-1234",
+      "country": "Lebanon",
+      "dob": "1994-04-11",
+      "genderIndex": 2
+    },
+    {
+      "title": "Ms",
+      "email": "jane.doe@gmail.com",
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "phone": "+1 (416) 555-5678",
+      "country": "Australia",
+      "dob": "1992-07-20",
+      "genderIndex": 3
+    },
+    {
+      "title": "Dr",
+      "email": "mark.smith@gmail.com",
+      "firstName": "",
+      "lastName": "Smith",
+      "phone": "+1 (416) 555-9101",
+      "country": "Canada",
+      "dob": "1988-12-05",
+      "genderIndex": 1
+    }
+  ]
+}
